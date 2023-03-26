@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "slim-select": "^2.4.5",
+    "stimulus-autocomplete": "^3.1.0"
+  }
+}
